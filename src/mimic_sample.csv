@@ -1,0 +1,7 @@
+
+subject_id,hadm_id,charttime,category,text
+10001,200001,2150-01-01,Radiology,"CT shows acute pulmonary embolism in right lower lobe."
+10002,200002,2151-02-12,Discharge summary,"Patient started on warfarin for DVT/PE."
+10003,200003,2153-03-20,Radiology,"No evidence of pulmonary embolism."
+10004,200004,2152-04-14,Discharge summary,"Anticoagulation contraindicated due to bleeding."
+10005,200005,2154-05-10,Radiology,"Normal chest x-ray. No PE."
