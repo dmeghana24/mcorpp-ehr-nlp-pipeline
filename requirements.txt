@@ -1,0 +1,16 @@
+
+transformers
+torch
+scikit-learn
+pandas
+numpy
+matplotlib
+streamlit
+openai
+sentencepiece
+datasets
+torchmetrics
+psycopg2-binary
+spacy
+medspacy
+shap
