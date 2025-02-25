@@ -30,4 +30,7 @@ A modular, graduate-level pipeline for extracting structured clinical data (e.g.
 9. Explainability: `python src/explainability.py`
 10. Dashboard: `streamlit run src/dashboard.py`
 
+
+The repo includes a 5-row synthetic dataset for demo/testing. For real EHR data, see MIMIC-III setup instructions.
+
 ## For MIMIC use: You must have access to the database. No data is distributed here.

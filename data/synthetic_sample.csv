@@ -1,0 +1,7 @@
+
+subject_id,hadm_id,category,text,label
+50001,800001,Radiology,"CT: acute pulmonary embolism, right lower lobe.","PE"
+50002,800002,Discharge summary,"Started on apixaban for anticoagulation.","ANTICOAG"
+50003,800003,Radiology,"No evidence of pulmonary embolism.","NEGATIVE"
+50004,800004,Discharge summary,"History of PE, currently not anticoagulated.","CONTROL"
+50005,800005,Radiology,"Normal findings.","CONTROL"
