@@ -34,3 +34,13 @@ A modular, graduate-level pipeline for extracting structured clinical data (e.g.
 The repo includes a 5-row synthetic dataset for demo/testing. For real EHR data, see MIMIC-III setup instructions.
 
 ## For MIMIC use: You must have access to the database. No data is distributed here.
+
+
+## References
+
+- Johnson, A. E. W., et al. (2016). [MIMIC-III, a freely accessible critical care database](https://www.nature.com/articles/sdata201635). Scientific Data.
+- Alsentzer, E., et al. (2019). [Publicly Available Clinical BERT Embeddings](https://arxiv.org/abs/1904.03323).
+- Vaswani, A., et al. (2017). [Attention is All You Need](https://arxiv.org/abs/1706.03762). (transformers)
+- medspaCy: [https://github.com/medspacy/medspacy](https://github.com/medspacy/medspacy)
+- SHAP: Lundberg, S. M., & Lee, S.-I. (2017). [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874).
+- LLM API: [OpenAI GPT-3.5/4](https://openai.com/research)
