@@ -56,17 +56,17 @@ Sample data (de-identified and synthetic) are provided in the `/sample_data/` di
 
 ## Workflow
 
+
 ```mermaid
 flowchart TD
-    A[Input EHR Notes] --> B[Text Preprocessing]
-    B --> C[Sentence Segmentation & Tokenization]
-    C --> D[Entity Recognition (Regex + CRF)]
-    D --> E[Negation & Context Detection]
-    E --> F[Label Assignment & Categorization]
-    F --> G[Structured Output (CSV/JSON)]
-    G --> H[QC, Error Analysis, Cohort Filtering]
+    A["Input EHR Notes"] --> B["Text Preprocessing"]
+    B --> C["Sentence Segmentation and Tokenization"]
+    C --> D["Entity Recognition (Regex & CRF)"]
+    D --> E["Negation and Context Detection"]
+    E --> F["Label Assignment and Categorization"]
+    F --> G["Structured Output (CSV/JSON)"]
+    G --> H["QC, Error Analysis, Cohort Filtering"]
 
-```
 
 ## How to Run
 
