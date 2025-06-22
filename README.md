@@ -74,7 +74,7 @@ flowchart TD
 ```bash
 git clone https://github.com/dmeghana24/mcorpp-ehr-nlp-pipeline.git
 cd mcorpp-ehr-nlp-pipeline
-
+```
 ## 💻 Install Dependencies
 
 See `requirements.txt` or set up the environment as described in `/docs/`.
