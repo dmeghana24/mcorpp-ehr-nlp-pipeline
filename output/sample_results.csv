@@ -1,0 +1,9 @@
+subject_id,hadm_id,entity,category,negation,context
+10001,200001,pulmonary embolism,Condition,False,Radiology Finding
+10002,200002,warfarin,Medication,False,Current
+10002,200002,DVT,Condition,False,Diagnosis
+10002,200002,PE,Condition,False,Diagnosis
+10003,200003,pulmonary embolism,Condition,True,Radiology Finding
+10004,200004,Anticoagulation,Therapy,True,Contraindication
+10004,200004,bleeding,Condition,False,Complication
+10005,200005,PE,Condition,True,Radiology Finding
